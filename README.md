@@ -1,5 +1,7 @@
 # 迅雷远程下载 xware-docker 镜像
 
+建议使用[迅雷极速版镜像](https://hub.docker.com/r/bestwu/thunderspeed/)
+
 ## 使用方法
 
 指定一个 volume 挂在到 `/data/TDDOWNLOAD` ，xware 所有下载的东西会保存到这个 volume 中。否则下载的东西会保存到容器中。
