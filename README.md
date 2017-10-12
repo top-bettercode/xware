@@ -1,6 +1,6 @@
 # 迅雷远程下载 xware-docker 镜像
 
-建议使用[迅雷极速版镜像](https://hub.docker.com/r/bestwu/thunderspeed/)
+相关：[迅雷极速版镜像](https://hub.docker.com/r/bestwu/thunderspeed/)
 
 ## 使用方法
 
