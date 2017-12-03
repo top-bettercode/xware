@@ -1,6 +1,6 @@
 [![Docker Image](https://img.shields.io/badge/docker%20image-available-green.svg)](https://hub.docker.com/r/bestwu/xware/)
 
-# 迅雷远程下载 xware-docker 镜像
+# 迅雷远程下载 docker 镜像
 
 相关：[迅雷极速版镜像](https://hub.docker.com/r/bestwu/thunderspeed/)
 
